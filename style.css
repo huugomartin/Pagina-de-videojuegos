@@ -1,3 +1,16 @@
 body {
-    background-image: url('https://p4.wallpaperbetter.com/wallpaper/623/1001/205/8-bit-arcade-cabinet-retro-games-monochrome-wallpaper-preview.jpg')
+    background-color: black;
+    color: blue;
+    
+}
+a:hover {
+    color: crimson
+}
+
+a:active {
+    color: darkolivegreen;
+}
+
+a:link {
+    color: darkslateblue;
 }
