@@ -1,16 +1,26 @@
 body {
     background-color: black;
     color: beige;
-    
+
 }
+
+h1 {
+    text-align: center;
+}
+
+
+
+
+
+
 a:hover {
-    color: crimson
+    color: rgb(255, 208, 0)
 }
 
 a:active {
-    color: darkolivegreen;
+    color: hotpink;
 }
 
 a:link {
-    color: darkslateblue;
+    color: darkcyan;
 }
