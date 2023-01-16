@@ -19,8 +19,9 @@ h2 {
     height:30px;
 }
 .class1{
-    width: 15cm;
-    height: 10cm;
+    width: 16cm;
+    height: 9cm;
+    text-align: center;
 }
 a:hover {
     color: rgb(255, 208, 0)
