@@ -29,6 +29,8 @@ h2 {
 .icono1{
     width: 1cm;
     height: 1cm;
+    margin-left: auto;
+    display: block;
 }
 a:hover {
     color: rgb(255, 208, 0)
