@@ -21,7 +21,7 @@ h2 {
 .class1{
     width: 16cm;
     height: 9cm;
-    text-align: center;
+    align-items: center;
 }
 a:hover {
     color: rgb(255, 208, 0)
