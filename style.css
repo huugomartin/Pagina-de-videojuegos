@@ -7,31 +7,42 @@ body {
 h1 {
     text-align: center;
 }
+
 h2 {
     text-decoration: underline;
 }
+
 .logos1 {
-    width:25px;
-    height:25px;
+    width: 25px;
+    height: 25px;
 }
+
 .logos2 {
     width: 40px;
-    height:30px;
+    height: 30px;
 }
-.class1{
+
+.class1 {
     width: 12cm;
     height: 6cm;
 }
-.class2{
+
+.class2 {
     width: 6cm;
     height: 8cm;
 }
-.icono1{
+
+.class3 {
+    background-image: url(https://www.xgn.nl/images/articles/2019/201912/_1280x720_crop_center-center_82_line/pack-de-mods-para-karmaland-5-los-mejores-155239.jpg);
+}
+
+.icono1 {
     width: 1.5cm;
     height: 1.5cm;
     margin-left: auto;
     display: block;
 }
+
 a:hover {
     color: rgb(255, 208, 0)
 }
