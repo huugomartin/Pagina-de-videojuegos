@@ -1,6 +1,6 @@
 body {
     background-color: black;
-   color: aliceblue;
+    color: aliceblue;
 
 }
 
@@ -15,9 +15,11 @@ h2 {
     color: rgb(91, 150, 206);
     font-family: fantasy;
 }
-h3{
-    color:aliceblue;
+
+h3 {
+    color: aliceblue;
 }
+
 .logos1 {
     width: 25px;
     height: 25px;
@@ -37,10 +39,12 @@ h3{
     width: 6cm;
     height: 8cm;
 }
+
 .class3 {
     width: 16cm;
     height: 8cm;
 }
+
 .icono1 {
     width: 1.5cm;
     height: 1.5cm;
