@@ -8,6 +8,7 @@ h1 {
     text-align: center;
     color: rgb(22, 108, 189);
     font-family: fantasy;
+    font-size:  2.5cm;
 }
 
 h2 {
@@ -44,7 +45,17 @@ h3 {
     width: 16cm;
     height: 8cm;
 }
-
+.class4{
+    width: 16cm;
+    height: 8cm;
+}
+.class5{
+    width: 20cm;
+    height: 10cm;
+}
+table{
+    border-spacing: 15px;
+}
 .icono1 {
     width: 1.5cm;
     height: 1.5cm;
